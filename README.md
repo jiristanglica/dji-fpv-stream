@@ -8,7 +8,7 @@ These dependencies are required to be installed and available in your system pat
     - opencv
     - flask
 2. **ffmpeg**
-3. **nodejs**
+3. **node**
 
 ### 2. Setup
 1. Pull the [voc-poc](https://github.com/fpv-wtf/voc-poc) repo: `git pull git@github.com:fpv-wtf/voc-poc.git`
